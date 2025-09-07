@@ -1,4 +1,4 @@
-# A-Dietition
+# AI-Dietition
 
 AI Dietician – Smart Diet & Health Manager
 
